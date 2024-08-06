@@ -35,5 +35,5 @@
 
 
 #### Consideração Final:
-O trabalho completo com todas as etapas em um único notebook podem ser acessadas em: ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) [Trabalho-Final-Completo.ipnyb](https://colab.research.google.com/github/lennonchaves/llm-fine-tuning-rag/blob/main/TPFinal_Completo.ipynb)
+O trabalho completo com todas as etapas em um único notebook podem ser acessadas em: ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) [Trabalho-Final-Completo.ipnyb](https://colab.research.google.com/github/lennonchaves/llm-fine-tuning-rag/blob/main/TPFinal_Lennon_Chaves_Completo.ipynb)
 
