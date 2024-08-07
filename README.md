@@ -26,7 +26,7 @@
 - Desenvolvimento de um RAG em chromaDB com aplicação de Rank do algoritmo BM25. 
 
 ### Entregáveis:
-- Relatório Técnico:
+- Relatório Técnico: [Relatorio.pdf](https://github.com/lennonchaves/llm-fine-tuning-rag/blob/main/TrabFinal_NLP_Lennon_Chaves_Relatorio.pdf)
 - Base de Dados Sintética: [database_sintetica.csv](https://github.com/lennonchaves/llm-fine-tuning-rag/blob/main/database_sintetica.csv)
 - Modelo com Fine Tuning: https://huggingface.co/lennonssss/gemma-7b-tuned
 - Implementação RAG: ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) [Implementação-RAG.ipnyb](https://colab.research.google.com/github/lennonchaves/llm-fine-tuning-rag/blob/main/TPFinal_Lennon_Chaves_Etapa_Parte4.ipynb)
